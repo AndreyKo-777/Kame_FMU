@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=E209E269-762C-4A34-BCC8-DFE9527EE830
+VaultGUID=76043240-879C-44C2-A3CA-4345F30F7677
+ReleaseVaultName=000001_GIT_Stage_2
+ItemGUID=E209E269-762C-4A34-BCC8-DFE9527EE830
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -414,12 +417,12 @@ Variation5=Designator=CN4|UniqueId=\SZJEZVSO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRev
-Value=2
-
-[Parameter2]
 Name=Project
 Value=KAME_FMU
+
+[Parameter2]
+Name=ProjectRev
+Value=2
 
 [Configuration1]
 Name=Sources
